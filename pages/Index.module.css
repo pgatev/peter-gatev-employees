@@ -1,6 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Noto+Serif&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Noto+Serif&display=swap");
 
-html,
 main {
   padding: 0;
   margin: 0;
@@ -11,5 +10,9 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(185, 191, 202);
+  background-color: rgb(87, 85, 81);
 }
+
+* {
+  box-sizing: border-box;
+} */

@@ -1,0 +1,31 @@
+.table {
+  background-color: rgb(226, 226, 226);
+  color: rgb(47, 45, 45);
+  border-radius: 1rem;
+  border-spacing: 0;
+  padding: 1rem 0;
+}
+
+.table td {
+  padding: 1rem 1rem;
+  font-size: 1rem;
+}
+
+.table thead th {
+  font-weight: normal;
+  color: rgb(73, 70, 70);
+  padding: 0.5rem;
+}
+
+.table tr {
+  background-color: rgb(226, 226, 226);
+}
+
+.table tr:nth-child(even) {
+  background-color: rgb(216, 213, 213);
+}
+
+.table tbody tr:first-child {
+  font-weight: bold;
+  background-color: #e0cf32;
+}

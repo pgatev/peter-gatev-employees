@@ -1,0 +1,20 @@
+.csvReader {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: rgb(226, 226, 226);
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  align-items: center;
+}
+
+.csvReader button {
+  border-radius: 0.75rem;
+  border: 2px solid hsl(0, 4%, 74%);
+  padding: 0.5rem 1rem;
+  appearance: none;
+  background-color: rgb(216, 213, 213);
+  color: rgb(47, 45, 45);
+  font-size: 1rem;
+  font-weight: bold;
+}
