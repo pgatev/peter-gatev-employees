@@ -2,7 +2,7 @@ import EmployeePairs from "@/components/EmployeePairs";
 import styles from "./Index.module.css";
 import { useState } from "react";
 import CsvReader from "../components/CsvReader";
-import { getEmployeeRecords } from "./utils";
+import { getEmployeeRecords } from "../utils";
 
 export default function Index() {
   const [data, setData] = useState([]);

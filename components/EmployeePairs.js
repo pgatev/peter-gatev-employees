@@ -1,4 +1,4 @@
-import { generatePairs } from "@/pages/utils";
+import { generatePairs } from "@/utils";
 import styles from "./EmployeePairs.module.css";
 export default function EmployeePairs({ data }) {
   const pairs = generatePairs(data);
